@@ -42,15 +42,9 @@ responsive-landing-page/
 │
 ├── index.html
 ├── README.md
-└── (optional) styles.css / script.js if separated
-
-yaml
-Copy
-Edit
+└── (optional) styles.css / script.js 
 
 
-
----
 
 ## ✍️ Author
 
