@@ -14,13 +14,6 @@ It features a fixed navbar with scroll and hover effects, a mobile hamburger men
 - ✅ Scroll-to-top button
 - ✅ Responsive layout for all screen sizes
 
----
-
-## 🖼️ Preview
-
-![Landing Page Preview](screenshot.png) <!-- Optional: Add a screenshot image -->
-
----
 
 ## 🛠️ Tech Stack
 
@@ -32,7 +25,7 @@ It features a fixed navbar with scroll and hover effects, a mobile hamburger men
 
 ## 🌐 Live Demo
 
-🔗 [View it on GitHub Pages](https://yourusername.github.io/responsive-landing-page/)
+🔗 [View it on GitHub Pages](https://Harshita2211.github.io/responsive-landing-page/)
 
 ---
 
