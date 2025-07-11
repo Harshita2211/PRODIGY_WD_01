@@ -21,11 +21,6 @@ It features a fixed navbar with scroll and hover effects, a mobile hamburger men
 - CSS3
 - JavaScript (Vanilla JS)
 
----
-
-## 🌐 Live Demo
-
-🔗 [View it on GitHub Pages](https://Harshita2211.github.io/responsive-landing-page/) 
 
 ## 📁 Folder Structure
 
