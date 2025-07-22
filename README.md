@@ -28,7 +28,6 @@ responsive-landing-page/
 │
 ├── index.html
 ├── README.md
-└── (optional) styles.css / script.js 
 
 
 
